@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+##There could be some cool GIFs here, as well as lots of pictures and graphs. But right now, solving specific problems is more important to me than all these beautiful things. Life is short, and I’m stupid.
+
 <!--
 **kvatapo/kvatapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
